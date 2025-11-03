@@ -22,5 +22,6 @@ I am on the job market for the 2025/26 academic year, with an expected graduatio
 
 ### Upcoming JMP Presentations
 
-* **[Women in Economics: Brown Bag Seminar Series](https://www.women-in-economics.com/event-details-registration/wie-brown-bag-seminar-1)**, November 7th
-* **PhD - Economics Virtual Seminar: Job Market Seminar Series**, November 13th
+* **[University of Chicago Booth Behavioral Economics Lab](https://sites.google.com/chicagobooth.edu/behavioral-econ-lab-group/current-schedule?authuser=0)**, November 6th, @Harper Center Room 3SW (Chicago, IL, USA) and online
+* **[Women in Economics: Brown Bag Seminar Series](https://www.women-in-economics.com/event-details-registration/wie-brown-bag-seminar-1)**, November 7th, online
+* **PhD - Economics Virtual Seminar: Job Market Seminar Series**, November 13th, online
