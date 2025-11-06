@@ -15,16 +15,42 @@
 <link rel="stylesheet" href="{{ base_path }}/assets/css/custom.css">
 
 <style>
-/* Allarga la sidebar sinistra */
-.sidebar {
-  width: 300px !important;  /* Default è circa 200-250px */
+/* Riduce font size di tutto il sito */
+html {
+  font-size: 14px !important;
 }
 
-/* Regola il contenuto principale di conseguenza */
+body {
+  font-size: 1em !important;
+}
+
+/* Mantieni proporzioni per titoli */
+h1 { font-size: 1.8em !important; }
+h2 { font-size: 1.5em !important; }
+h3 { font-size: 1.3em !important; }
+h4 { font-size: 1.1em !important; }
+
+/* Allarga la sidebar sinistra per TUTTE le pagine */
+.sidebar {
+  width: 300px !important;
+}
+
+.sidebar.sticky {
+  width: 300px !important;
+}
+
+/* Regola il contenuto principale per TUTTI i layout */
 @media (min-width: 64em) {
   .page {
     width: calc(100% - 320px) !important;
     padding-right: 20px !important;
+    float: right !important;
+  }
+  
+  .archive {
+    width: calc(100% - 320px) !important;
+    padding-right: 20px !important;
+    float: right !important;
   }
 }
 
@@ -34,4 +60,5 @@
   width: 200px !important;
 }
 </style>
+
 <!-- end custom head snippets -->
