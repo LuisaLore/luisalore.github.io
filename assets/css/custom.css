@@ -1,1 +1,13 @@
+/* Ingrandisci foto profilo */
+.author__avatar img {
+  max-width: 200px !important;  /* Default è circa 150px */
+  width: 200px !important;
+}
 
+/* Opzionale: per schermi più piccoli */
+@media (max-width: 768px) {
+  .author__avatar img {
+    max-width: 150px !important;
+    width: 150px !important;
+  }
+}
