@@ -37,7 +37,7 @@ PhD | Held by Rudolf Kerschbamer | University of Innsbruck<br>
 *Summer 2024, Summer 2025*
 
 <details>
-<summary><strong>Previous Experience</strong>strong></summary>
+<summary><strong>Previous Experience</strong></summary>
 
 <p><strong>Global Economics</strong><br>
 Bachelor | Held by Michael Pfaffermayr and Harald Puhr | University of Innsbruck<br>
