@@ -20,7 +20,7 @@ I am on the job market for the 2025/26 academic year, with an expected graduatio
 
 ### JMP: Environmental costs in second-hand clothing purchase: A voucher choice experiment
 
-<!-- **[Download my Job Market Paper](files/jmp.pdf)** -->
+**[Download my Job Market Paper](files/jmp.pdf)**
 
 <details>
 <summary>Abstract</summary>
