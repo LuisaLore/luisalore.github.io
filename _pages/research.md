@@ -53,26 +53,26 @@ Irene Maria Buso, Daniela Di Cagno, Lorenzo Ferrari, Vittorio Larocca, **Luisa L
 
 ---
 
-## Work in Progress
+## (Selected) Work in Progress
 
-**Encouraging reuse and second-hand consumption**  
+**Image concerns in second-hand consumption: A vignette study**
 (with Luca Congiu and Mariangela Zoli)  
 *Status: Writing draft*  
 <!-- [[Draft](files/reuse-draft.pdf)] [[Pre-registration](link)] -->
 
-**Metastudy on different measures of Prosociality**  
+**Experimental Methods to Measuring Prosociality: A Systematic Comparison and Test with Real-Life Decisions**  
 (with Alexandra Baier, Esther Blanco, and Natalie Struwe)  
 *Status: Writing draft*  
 <!-- [[Draft](files/prosociality-meta-draft.pdf)] -->
 
 **Field experiment in Credence Goods Markets**  
 (with Rudolf Kerschbamer, Essi Kujansuu, Daniel Neururer, and Daniel Woods)  
-*Status: Data collection*  
+*Status: Data analysis*  
 <!-- [[Draft](files/credence-goods-draft.pdf)] [[Pre-registration](link)] -->
 
 **Overstating Generosity**  
 (with Werner Güth and Francesca Marazzi)  
-*Status: Data collection*  
+*Status: Data analysis*  
 <!-- [[Draft](files/overstating-draft.pdf)] [[Pre-registration](link)] -->
 
 **Consumers' (mis)perception of second-hand clothing**  
