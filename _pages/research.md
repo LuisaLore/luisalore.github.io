@@ -55,7 +55,7 @@ Irene Maria Buso, Daniela Di Cagno, Lorenzo Ferrari, Vittorio Larocca, **Luisa L
 
 ## (Selected) Work in Progress
 
-**Image concerns in second-hand consumption: A vignette study**
+**Image concerns in second-hand consumption: A vignette study**  
 (with Luca Congiu and Mariangela Zoli)  
 *Status: Writing draft*  
 <!-- [[Draft](files/reuse-draft.pdf)] [[Pre-registration](link)] -->
