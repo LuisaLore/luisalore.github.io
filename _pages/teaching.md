@@ -13,9 +13,15 @@ I am committed to providing students with well-crafted materials that enhance th
 
 ## Lecturer
 
+<!--
+**Digital Markets**<br>
+Bachelor | University of Innsbruck<br>
+*Summer 2026*
+-->
+
 **Nudging**<br>
 Bachelor | University of Innsbruck<br>
-*Winter 2025, Summer 2026*
+*Winter 2025*
 <!-- <br><a href="{{ site.baseurl }}/files/nudging_syllabus.pdf">Syllabus</a> | <a href="{{ site.baseurl }}/files/nudging_materials.zip">Teaching Materials</a> -->
 
 **Economic Theory**<br>
