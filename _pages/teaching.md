@@ -37,7 +37,7 @@ PhD | Held by Rudolf Kerschbamer | University of Innsbruck<br>
 *Summer 2024, Summer 2025, Summer 2026*
 
 **Field Experiments**<br>
-PhD | Held by Esther Blanco | University of Innsbruck<br>
+Bachelor | Held by Esther Blanco | University of Innsbruck<br>
 *Summer 2026*
 
 <details>
