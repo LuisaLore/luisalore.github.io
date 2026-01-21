@@ -36,7 +36,7 @@ Bachelor | University of Rome Tor Vergata<br>
 PhD | Held by Rudolf Kerschbamer | University of Innsbruck<br>
 *Summer 2024, Summer 2025, Summer 2026*
 
-**Field Experiment**<br>
+**Field Experiments**<br>
 PhD | Held by Esther Blanco | University of Innsbruck<br>
 *Summer 2026*
 
