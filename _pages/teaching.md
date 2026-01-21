@@ -13,12 +13,6 @@ I am committed to providing students with well-crafted materials that enhance th
 
 ## Lecturer
 
-<!--
-**Digital Markets**<br>
-Bachelor | University of Innsbruck<br>
-*Summer 2026*
--->
-
 **Nudging**<br>
 Bachelor | University of Innsbruck<br>
 *Winter 2025*
@@ -41,6 +35,10 @@ Bachelor | University of Rome Tor Vergata<br>
 **Game Theory**<br>
 PhD | Held by Rudolf Kerschbamer | University of Innsbruck<br>
 *Summer 2024, Summer 2025, Summer 2026*
+
+**Field Experiment**<br>
+PhD | Held by Esther Blanco | University of Innsbruck<br>
+*Summer 2026*
 
 <details>
 <summary><strong>Previous Experience</strong></summary>
