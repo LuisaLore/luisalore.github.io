@@ -15,7 +15,8 @@ I am committed to providing students with well-crafted materials that enhance th
 
 **Nudging**<br>
 Bachelor | University of Innsbruck<br>
-*Winter 2025*
+*Winter 2025*<br>
+<a href="{{ site.baseurl }}/files/UIBK_FP_Guidelines.pdf">AI Usage Guidelines</a>
 <!-- <br><a href="{{ site.baseurl }}/files/nudging_syllabus.pdf">Syllabus</a> | <a href="{{ site.baseurl }}/files/nudging_materials.zip">Teaching Materials</a> -->
 
 **Economic Theory**<br>
