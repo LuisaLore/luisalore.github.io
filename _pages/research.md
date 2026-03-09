@@ -50,36 +50,54 @@ Irene Maria Buso, Daniela Di Cagno, Lorenzo Ferrari, Vittorio Larocca, **Luisa L
 
 ---
 
-## (Selected) Work in Progress
+---
 
-**Image concerns in second-hand consumption: A vignette study**  
+## Work in Progress
+
+### Dissertation Papers
+
+**Field Experiment in Credence Goods Markets**  
+(with Rudolf Kerschbamer, Essi Kujansuu, Daniel Neururer, and Daniel Woods)  
+*Status: Draft in preparation*  
+<!-- [[Draft](files/credence-goods-draft.pdf)] [[Pre-registration](link)] -->
+
+**Der Reparaturbonus: A Correspondence Study on the Effects of Subsidized Repairs in Austria**  
+(with Rudolf Kerschbamer, Essi Kujansuu, and Daniel Woods)  
+*Status: Draft in preparation*  
+<!-- [[Draft](files/reparaturbonus-draft.pdf)] [[Pre-registration](link)] -->
+
+**Environmental Costs in Second-Hand Clothing Purchase: A Voucher Choice Experiment** **(JMP)**  
+(with Luca Congiu and Mariangela Zoli)
+
+**Image Dimensions and Social Perspectives: A Vignette Experiment on Second-Hand Adoption**  
 (with Luca Congiu and Mariangela Zoli)  
-*Status: Writing draft*  
-<!-- [[Draft](files/reuse-draft.pdf)] [[Pre-registration](link)] -->
+*Draft available upon request*
+
+### Other Ongoing Projects
 
 **Experimental Methods to Measuring Prosociality: A Systematic Comparison and Test with Real-Life Decisions**  
 (with Alexandra Baier, Esther Blanco, and Natalie Struwe)  
-*Status: Writing draft*  
+*Status: Draft in preparation*  
 <!-- [[Draft](files/prosociality-meta-draft.pdf)] -->
 
-**Field experiment in Credence Goods Markets**  
-(with Rudolf Kerschbamer, Essi Kujansuu, Daniel Neururer, and Daniel Woods)  
-*Status: Data analysis*  
-<!-- [[Draft](files/credence-goods-draft.pdf)] [[Pre-registration](link)] -->
-
-**Overstating Generosity**  
+**Bargaining and Misreporting Behavior with Information Leaks and Gender Constellations**  
 (with Werner Güth and Francesca Marazzi)  
-*Status: Data analysis*  
-<!-- [[Draft](files/overstating-draft.pdf)] [[Pre-registration](link)] -->
+*Status: Analysis in progress*  
+<!-- [[Draft](files/bargaining-draft.pdf)] -->
 
-**Consumers' (mis)perception of second-hand clothing**  
-(with Claire Rimbaud)  
-*Status: Designing*  
+**Biological Roots of Behavioral Differences: Exploring the Impact of Hormonal Variations on Cognitive Fatigue, Risk Attitudes, and Productivity in Women**  
+(with Francesca Marazzi)  
+*Status: Data collection in progress*  
 <!-- [[Pre-registration](link)] -->
 
-**Biological roots of gender differences: the impact of the menstrual cycle on risk preferences and cognitive fatigue**  
-(with Francesca Marazzi)  
-*Status: Designing*  
+**Consumers' (Mis)perception of Second-Hand Clothing**  
+(with Claire Rimbaud)  
+*Status: Design stage*  
+<!-- [[Pre-registration](link)] -->
+
+**Cross-Country Differences in Credence Good Markets: Evidence from Computer Repair Service**  
+(with Rudolf Kerschbamer, Essi Kujansuu, Daniel Neururer, and Daniel Woods)  
+*Status: Design stage*  
 <!-- [[Pre-registration](link)] -->
 
 ---
