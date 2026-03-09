@@ -50,8 +50,6 @@ Irene Maria Buso, Daniela Di Cagno, Lorenzo Ferrari, Vittorio Larocca, **Luisa L
 
 ---
 
----
-
 ## Work in Progress
 
 ### Dissertation Papers
