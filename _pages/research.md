@@ -66,7 +66,7 @@ Irene Maria Buso, Daniela Di Cagno, Lorenzo Ferrari, Vittorio Larocca, **Luisa L
 
 **Environmental Costs in Second-Hand Clothing Purchase: A Voucher Choice Experiment** **(JMP)**  
 (with Luca Congiu and Mariangela Zoli)  
-**[Draft](https://luisalore.github.io/files/cv.pdf)**
+**[Draft](https://luisalore.github.io/files/jmp.pdf)**
 
 **Image Dimensions and Social Perspectives: A Vignette Experiment on Second-Hand Adoption**  
 (with Luca Congiu and Mariangela Zoli)  
