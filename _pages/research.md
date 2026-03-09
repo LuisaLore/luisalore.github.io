@@ -88,13 +88,13 @@ Irene Maria Buso, Daniela Di Cagno, Lorenzo Ferrari, Vittorio Larocca, **Luisa L
 *Status: Data collection in progress*  
 <!-- [[Pre-registration](link)] -->
 
-**Consumers' (Mis)perception of Second-Hand Clothing**  
-(with Claire Rimbaud)  
+**Cross-Country Differences in Credence Good Markets: Evidence from Computer Repair Service**  
+(with Rudolf Kerschbamer, Essi Kujansuu, Daniel Neururer, and Daniel Woods)  
 *Status: Design stage*  
 <!-- [[Pre-registration](link)] -->
 
-**Cross-Country Differences in Credence Good Markets: Evidence from Computer Repair Service**  
-(with Rudolf Kerschbamer, Essi Kujansuu, Daniel Neururer, and Daniel Woods)  
+**Consumers' (Mis)perception of Second-Hand Clothing**  
+(with Claire Rimbaud)  
 *Status: Design stage*  
 <!-- [[Pre-registration](link)] -->
 
