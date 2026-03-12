@@ -37,7 +37,7 @@ Bachelor | University of Rome Tor Vergata<br>
 PhD | Held by Rudolf Kerschbamer | University of Innsbruck<br>
 *Summer 2024, Summer 2025, Summer 2026*
 
-**Field Experiments**<br>
+**Behavioural and Experimental Economics: Field Experiments**<br>
 Bachelor | Held by Esther Blanco | University of Innsbruck<br>
 *Summer 2026*
 
