@@ -8,11 +8,11 @@ redirect_from:
   - /about.html
 ---
 
-I am a 5th-year PhD Candidate in Economics at the University of Innsbruck, currently visiting the University of Chicago. Using field experiments, I investigate how economic incentives and behavioral biases influence decisions in markets that impact sustainability and social welfare.
+I am a 5th-year PhD Candidate in Economics at the University of Innsbruck, Research Fellow at [Tor Vergata CEIS (Centre for Economic and International Studies)](https://ceistorvergata.it), and Associated Researcher at [Luiss CESARE Laboratory for Experimental Economics](https://www.luiss.edu/research/research-centers/laboratory-experimental-economics-cesare). 
 
-My dissertation, ***Repair and Reuse Economics***, focuses on two areas: reducing fraudulent behavior among repair service providers and understanding consumer reluctance toward purchasing second-hand goods. I design and implement field interventions to address market failures and behavioral barriers in both sectors.
+Using field experiments, I investigate how economic incentives and behavioral biases influence decisions in markets that impact sustainability and social welfare. My broader research agenda includes prosocial behavior and gender economics.
 
-My broader research agenda includes work on prosocial behavior, exploring the determinants of donations and volunteering, and gender economics, examining how gender shapes economic opportunities and choices.
+My dissertation, ***Repair and Reuse Economics***, focuses on reducing fraudulent behavior among repair service providers and understanding consumer reluctance toward purchasing second-hand goods. I design and implement field interventions to address market failures and behavioral barriers in both sectors. My doctoral research was conducted as part of the [SFB F63 *Credence Goods, Incentives and Behavior*](https://www.uibk.ac.at/credence-goods/) project on Field Experiments in Credence Goods Markets. 
 
 ## Job Market 2025/26
 
