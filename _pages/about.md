@@ -29,4 +29,4 @@ I am on the job market for the 2025/26 academic year, with an expected graduatio
 
 ### Upcoming JMP Presentations
 
-* **World Congress of Environmental and Resource Economists (WCERE)**, July 2nd, @NOVA SBE D-104 (Carcavelos, Lisbon, Portugal). [Program details](https://www.conftool.pro/wcere2026/index.php?page=browseSessions&form_date=2026-07-02&form_session=215&mode=table&presentations=show#paperID1401). 
+* **World Congress of Environmental and Resource Economists (WCERE)**, July 2nd, @NOVA SBE D-104 (Carcavelos, Lisbon, Portugal). **[Program details](https://www.conftool.pro/wcere2026/index.php?page=browseSessions&form_date=2026-07-02&form_session=215&mode=table&presentations=show#paperID1401)**. 
