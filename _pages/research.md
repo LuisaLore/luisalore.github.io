@@ -67,10 +67,20 @@ Irene Maria Buso, Daniela Di Cagno, Lorenzo Ferrari, Vittorio Larocca, **Luisa L
 **Environmental Costs in Second-Hand Clothing Purchase: A Voucher Choice Experiment** **(JMP)**  
 (with Luca Congiu and Mariangela Zoli)  
 **[Draft](https://luisalore.github.io/files/jmp.pdf)**
+<!-- [[Draft](files/reparaturbonus-draft.pdf)] [[Pre-registration](link)] -->
+<details>
+<summary>Abstract</summary>
+<p> Although consumers may wish to act in environmentally responsible ways, informational barriers often prevent them from accurately understanding the true environmental costs of their consumption choices. In this paper, we investigate how environmental costs, such as CO2 emissions, electric energy consumption, and water usage, affect the intention to purchase secondhand clothing. Using multiple price lists, we measure stated changes in purchasing intention and incentivized choices, as well as willingness to accept (WTA) and willingness to pay (WTP) for vouchers at first-hand versus second-hand clothing stores. We draw on a large, nationally representative sample of Italians (N = 10,496). First, we find that providing information is effective in promoting secondhand adoption across all types of environmental costs; water-based information generates the strongest effect. Second, we find that pro-environmental behavior amplifies responsiveness to information. However, the need for uniqueness acts as a significant barrier; these individuals require approximately €2 more compensation to switch to secondhand options. Third, local environmental conditions, including water scarcity, energy poverty, and air quality, do not systematically moderate treatment effects. We also found that store proximity influences baseline preferences, but does not moderate the effects of information provision. Our findings indicate that consumers respond to various environmental indicators, demonstrating a particular sensitivity to water usage compared to CO2 emissions. However, significant portions of the public remain disengaged from sustainability information. </p>
+</details>
 
 **Image Dimensions and Social Perspectives: A Vignette Experiment on Second-Hand Adoption**  
 (with Luca Congiu and Mariangela Zoli)  
 *Draft available upon request*
+<!-- [[Draft](files/reparaturbonus-draft.pdf)] [[Pre-registration](link)] -->
+<details>
+<summary>Abstract</summary>
+<p> Despite growing recognition that image considerations underlie the adoption of second-hand goods, research in this domain has largely overlooked the possibility that different image dimensions operate through distinct channels.} Using a vignette experiment on a nationally representative Italian sample (N = 10,496), this paper disentangles the effects of three image perspectives -- self-image, social image, and second-order self-image (beliefs about others’ self-image) -- across four main dimensions of second-hand adoption: financial, social, environmental, and hygiene. Contrary to findings in other behavioral domains, self-image emerges as the stronger predictor of intention to adopt second-hand, with the largest gaps over social image for hygiene and social-approval dimensions and the smallest -- though still significant -- for environmental considerations. Within self-image, hygiene and financial considerations are the strongest correlates of adoption, while environmental consciousness is the weakest; yet it becomes relevant under other-oriented perspectives (social and second-order), suggesting it operates more as a social signal than a private value. Participants also systematically underestimate how positively others view themselves when engaging in second-hand adoption, and this underestimation depresses adoption intentions more than overestimation boosts them -- a pattern consistent with pluralistic ignorance that may act as a self-reinforcing barrier to adoption. </p>
+</details>
 
 ### Other Ongoing Projects
 
