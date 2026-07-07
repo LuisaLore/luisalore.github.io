@@ -50,17 +50,9 @@ Irene Maria Buso, Daniela Di Cagno, Lorenzo Ferrari, Vittorio Larocca, **Luisa L
 
 ---
 
-## Dissertation Papers
+## Work in Progress
 
-**Field Experiment in Credence Goods Markets**  
-(with Rudolf Kerschbamer, Essi Kujansuu, Daniel Neururer, and Daniel Woods)  
-*Status: Draft in preparation*  
-<!-- [[Draft](files/credence-goods-draft.pdf)] [[Pre-registration](link)] -->
-
-**Der Reparaturbonus: A Correspondence Study on the Effects of Subsidized Repairs in Austria**  
-(with Rudolf Kerschbamer, Essi Kujansuu, and Daniel Woods)  
-*Status: Draft in preparation*  
-<!-- [[Draft](files/reparaturbonus-draft.pdf)] [[Pre-registration](link)] -->
+### Consumers' attitudes to second-hand consumption
 
 **Environmental Costs in Second-Hand Clothing Purchase: A Voucher Choice Experiment** **(JMP)**  
 (with Luca Congiu and Mariangela Zoli)  
@@ -79,9 +71,25 @@ Irene Maria Buso, Daniela Di Cagno, Lorenzo Ferrari, Vittorio Larocca, **Luisa L
 <p> Despite growing recognition that image considerations underlie the adoption of second-hand goods, research in this domain has largely overlooked the possibility that different image dimensions operate through distinct channels. Using a vignette experiment on a nationally representative Italian sample (N = 10,496), this paper disentangles the effects of three image perspectives - self-image, social image, and second-order self-image (beliefs about others’ self-image) - across four main dimensions of second-hand adoption: financial, social, environmental, and hygiene. Contrary to findings in other behavioral domains, self-image emerges as the stronger predictor of intention to adopt second-hand, with the largest gaps over social image for hygiene and social-approval dimensions and the smallest - though still significant - for environmental considerations. Within self-image, hygiene and financial considerations are the strongest correlates of adoption, while environmental consciousness is the weakest; yet it becomes relevant under other-oriented perspectives (social and second-order), suggesting it operates more as a social signal than a private value. Participants also systematically underestimate how positively others view themselves when engaging in second-hand adoption, and this underestimation depresses adoption intentions more than overestimation boosts them -- a pattern consistent with pluralistic ignorance that may act as a self-reinforcing barrier to adoption. </p>
 </details>
 
----
+### Repairers' (fraudulent) behavior
+<!-- ## Dissertation Papers -->
 
-## Work in Progress
+**Field Experiment in Credence Goods Markets**  
+(with Rudolf Kerschbamer, Essi Kujansuu, Daniel Neururer, and Daniel Woods)  
+*Status: Analysis in progress*  
+<!-- [[Draft](files/credence-goods-draft.pdf)] [[Pre-registration](link)] -->
+
+**Der Reparaturbonus: A Correspondence Study on the Effects of Subsidized Repairs in Austria**  
+(with Rudolf Kerschbamer, Essi Kujansuu, and Daniel Woods)  
+*Status: Draft in preparation*  
+<!-- [[Draft](files/reparaturbonus-draft.pdf)] [[Pre-registration](link)] -->
+
+**Cross-Country Differences in Credence Good Markets: Evidence from Computer Repair Service**  
+(with Rudolf Kerschbamer, Essi Kujansuu, Daniel Neururer, and Daniel Woods)  
+*Status: Data collection in progress*  
+<!-- [[Pre-registration](link)] -->
+
+### Individuals' prosocial behavior
 
 **Experimental Methods to Measuring Prosociality: A Systematic Comparison and Test with Real-Life Decisions**  
 (with Alexandra Baier, Esther Blanco, and Natalie Struwe)  
@@ -95,11 +103,6 @@ Irene Maria Buso, Daniela Di Cagno, Lorenzo Ferrari, Vittorio Larocca, **Luisa L
 
 <!--**Biological Roots of Behavioral Differences: Exploring the Impact of Hormonal Variations on Cognitive Fatigue, Risk Attitudes, and Productivity in Women**  
 (with Francesca Marazzi)  
-*Status: Data collection in progress*  
-<!-- [[Pre-registration](link)] -->
-
-**Cross-Country Differences in Credence Good Markets: Evidence from Computer Repair Service**  
-(with Rudolf Kerschbamer, Essi Kujansuu, Daniel Neururer, and Daniel Woods)  
 *Status: Data collection in progress*  
 <!-- [[Pre-registration](link)] -->
 
