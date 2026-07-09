@@ -16,7 +16,7 @@ All my publications are open access and freely available through the links provi
 
 --- -->
 
-## Publications
+## Publications 
 
 **[Testing isomorphic invariance across social dilemma games](https://doi.org/10.1016/j.jebo.2024.04.024)**  
 Irene Maria Buso, Lorenzo Ferrari, Werner Güth, **Luisa Lorè**, Lorenzo Spadoni  
