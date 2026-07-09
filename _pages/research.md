@@ -48,7 +48,7 @@ Irene Maria Buso, Daniela Di Cagno, Lorenzo Ferrari, Vittorio Larocca, **Luisa L
 
 **[Image Dimensions and Social Perspectives: A Vignette Experiment on Second-Hand Adoption](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=7064339&__cf_chl_f_tk=zvsXtWSrkges5ABonjHEK2YOp0SLY1HX9HbITqOrw8w-1783433111-1.0.1.1-S8iWuSUKhHZ.AhwrZ2.Bd_eB6d454gc.sVbbTagg.dM#)**  
 Luca Congiu, **Luisa Lorè**, Mariangela Zoli  
-*CEIS Working Paper*, No. 625  
+*CEIS Working Paper*, No. 625, 2026.  
 <!-- [[Pre-registration](link)] -->
 <details>
 <summary>Abstract</summary>
