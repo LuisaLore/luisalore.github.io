@@ -46,9 +46,10 @@ Irene Maria Buso, Daniela Di Cagno, Lorenzo Ferrari, Vittorio Larocca, **Luisa L
 
 ## Working Papers
 
-**Image Dimensions and Social Perspectives: A Vignette Experiment on Second-Hand Adoption**  
-(with Luca Congiu and Mariangela Zoli)  
-**[Working Paper](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=7064339&__cf_chl_f_tk=zvsXtWSrkges5ABonjHEK2YOp0SLY1HX9HbITqOrw8w-1783433111-1.0.1.1-S8iWuSUKhHZ.AhwrZ2.Bd_eB6d454gc.sVbbTagg.dM#)** <!-- [[Pre-registration](link)] -->
+**[Image Dimensions and Social Perspectives: A Vignette Experiment on Second-Hand Adoption](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=7064339&__cf_chl_f_tk=zvsXtWSrkges5ABonjHEK2YOp0SLY1HX9HbITqOrw8w-1783433111-1.0.1.1-S8iWuSUKhHZ.AhwrZ2.Bd_eB6d454gc.sVbbTagg.dM#)**  
+Luca Congiu, **Luisa Lorè**, Mariangela Zoli  
+*CEIS Working Paper*, No. 625  
+<!-- [[Pre-registration](link)] -->
 <details>
 <summary>Abstract</summary>
 <p> Despite growing recognition that image considerations underlie the adoption of second-hand goods, research in this domain has largely overlooked the possibility that different image dimensions operate through distinct channels. Using a vignette experiment on a nationally representative Italian sample (N = 10,496), this paper disentangles the effects of three image perspectives - self-image, social image, and second-order self-image (beliefs about others’ self-image) - across four main dimensions of second-hand adoption: financial, social, environmental, and hygiene. Contrary to findings in other behavioral domains, self-image emerges as the stronger predictor of intention to adopt second-hand, with the largest gaps over social image for hygiene and social-approval dimensions and the smallest - though still significant - for environmental considerations. Within self-image, hygiene and financial considerations are the strongest correlates of adoption, while environmental consciousness is the weakest; yet it becomes relevant under other-oriented perspectives (social and second-order), suggesting it operates more as a social signal than a private value. Participants also systematically underestimate how positively others view themselves when engaging in second-hand adoption, and this underestimation depresses adoption intentions more than overestimation boosts them -- a pattern consistent with pluralistic ignorance that may act as a self-reinforcing barrier to adoption. </p>
