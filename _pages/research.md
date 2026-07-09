@@ -44,7 +44,7 @@ Irene Maria Buso, Daniela Di Cagno, Lorenzo Ferrari, Vittorio Larocca, **Luisa L
 
 ---
 
-## Working Paper
+## Working Papers
 
 **Image Dimensions and Social Perspectives: A Vignette Experiment on Second-Hand Adoption**  
 (with Luca Congiu and Mariangela Zoli)  
