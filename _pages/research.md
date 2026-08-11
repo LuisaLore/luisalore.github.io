@@ -61,7 +61,7 @@ Luca Congiu, **Luisa Lorè**, Mariangela Zoli
 
 **Environmental Costs in Second-Hand Clothing Purchase: A Voucher Choice Experiment** **(JMP)**  
 (with Luca Congiu and Mariangela Zoli)  
-**[Draft](https://luisalore.github.io/files/jmp.pdf)**
+*Status: **[Draft available](https://luisalore.github.io/files/jmp.pdf)***
 <!-- [[Draft](files/reparaturbonus-draft.pdf)] [[Pre-registration](link)] -->
 <details>
 <summary>Abstract</summary>
