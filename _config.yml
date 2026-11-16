@@ -39,10 +39,10 @@ author:
   osf              : "https://osf.io/xqw7r/"  # Add your full OSF URL here
   inspire-hep      : # URL
   impactstory      : # URL
-  orcid            : "https://orcid.org/0000-0003-2212-0946"
+  orcid            : # "https://orcid.org/0000-0003-2212-0946"
   semantic         : # URL
   pubmed           : # URL
-  researchgate     : "https://www.researchgate.net/profile/Luisa_Lore"
+  researchgate     : # "https://www.researchgate.net/profile/Luisa_Lore"
   scopus           : # URL
 
   # Repositories and software development
@@ -55,7 +55,7 @@ author:
 
   # Social media
   artstation       : # Username
-  bluesky          : "luisalore.bsky.social" # Replace this with you Bluesky username
+  bluesky          : # "luisalore.bsky.social" # Replace this with you Bluesky username
   facebook         : # Username
   flickr           : # Username
   foursquare       : # Username
